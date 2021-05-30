@@ -1,0 +1,25 @@
+th,
+td {
+    padding: 20px;
+    border: 1px solid
+}
+
+table {
+    width: 100%;
+}
+
+.c1 {
+    background-color: rgb(200, 247, 131);
+}
+
+.c2 {
+    background-color: rgb(125, 213, 248);
+}
+
+.c6 {
+    background-color: rgb(238, 144, 230);
+}
+
+.rg {
+    color: red;
+}

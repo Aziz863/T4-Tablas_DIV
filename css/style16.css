@@ -1,0 +1,21 @@
+.fila1 th {
+    background-color: rgb(226, 168, 121);
+}
+
+.fila2 td {
+    background-color: rgb(228, 245, 80);
+}
+
+.fila3,
+.fila4,
+.fila5 {
+    background-color: rgb(241, 224, 172);
+}
+
+table {
+    text-align: center;
+}
+
+caption {
+    background-color: rgb(92, 165, 92);
+}
